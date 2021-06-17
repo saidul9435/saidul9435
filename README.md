@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saidul9435 , and i am a student.
-- 👀 I’m interested in programming . want to be programmer.
+- 👀 I’m interested in programming , wants to be a programmer.
 - 🌱 I’m currently learning Data sciencec and Big data
 - 💞️ I’m looking to collaborate on any programming project.
 - 📫 How to reach me ...
